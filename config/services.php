@@ -2,6 +2,8 @@
 
 return [
 
+    'swapi' => ['url' => env('SWAPI_URL', 'https://swapi.py4e.com/api')],
+
     /*
     |--------------------------------------------------------------------------
     | Third Party Services
