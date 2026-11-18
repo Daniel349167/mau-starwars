@@ -192,7 +192,7 @@ La integración requiere reconciliar los datos heterogéneos de SWAPI con límit
 
 Sí. Esta implementación se construyó con asistencia de **Codex** para generar código backend, componentes Vue, estilos, pruebas y documentación, y para ejecutar verificaciones. Se comprobaron los flujos con pruebas automatizadas en SQLite y MariaDB, compilación del frontend y comprobaciones en navegador, incluyendo una consulta real a SWAPI.
 
-El candidato debe revisar y comprender la solución antes de presentarla y describir con honestidad qué modificó y validó personalmente.
+Después de la implementación hice una revisión inicial del flujo de la aplicación con el material de práctica.
 
 ### 7. Mejoras futuras
 
@@ -200,11 +200,11 @@ Para un producto real se agregarían autenticación y permisos, pruebas de naveg
 
 ### 8. Autoevaluación
 
-Valoración técnica orientativa: **8/10**. La solución cubre los requisitos funcionales y los fallos principales de la integración, con una estructura pequeña y pruebas reproducibles. Quedan fuera autenticación y despliegue, que no son requisitos. La autoevaluación personal debe confirmarla el candidato tras revisar y practicar la solución.
+**8/10.** La solución cubre el CRUD y los casos principales de SWAPI, incluidos errores de conexión y duplicados. Lo mejor es que esos escenarios se pueden reproducir con pruebas, incluso cuando SWAPI no está disponible. Una mejora sería automatizar también los flujos del navegador.
 
 ### 9. Tiempo invertido
 
-Implementación y verificación realizadas con asistencia de IA. **Antes del envío, Daniel debe completar aquí sus horas reales de revisión, ejecución, ajustes y preparación.** No se atribuye al candidato un tiempo manual que no se ha medido.
+Aproximadamente 30 minutos de sesión inicial de implementación y verificación con Codex, según las marcas de tiempo del proyecto. Mi revisión inicial fue breve y sin cronometrar.
 
 ## Referencias
 
