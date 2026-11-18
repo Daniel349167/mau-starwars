@@ -204,7 +204,7 @@ Para un producto real se agregarían autenticación y permisos, pruebas de naveg
 
 ### 9. Tiempo invertido
 
-Aproximadamente 30 minutos de sesión inicial de implementación y verificación con Codex, según las marcas de tiempo del proyecto. Mi revisión inicial fue breve y sin cronometrar.
+Tiempo estimado: 2 horas de implementación, pruebas y documentación con Codex, y 2 horas de revisión y preparación personal.
 
 ## Referencias
 
